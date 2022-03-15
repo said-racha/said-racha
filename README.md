@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 ### Hi there ✨
 
-[![Racha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Said-Racha&count_private=false&show_icons=true&theme=tokyonight)](https://github.com/said-racha/github-readme-stats)
+[![Racha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Said-Racha&show_icons=true&theme=tokyonight)](https://github.com/said-racha/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=said-racha&layout=compact&theme=tokyonight)](https://github.com/said-racha/github-readme-stats)
